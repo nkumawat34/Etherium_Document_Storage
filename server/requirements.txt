@@ -1,0 +1,10 @@
+Flask-CORS
+opencv-python
+jsonify
+flask
+qrcode[pil]
+requests
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
+opencv-python
+PyPDF2
+gunicorn
